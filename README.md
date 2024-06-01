@@ -19,10 +19,10 @@ This is a web application built using the MERN stack (MongoDB, Express, React, N
 
 ## Installation
 Follow these steps to set up the project locally:
--for the client:
-cd client
-npm install
-npm start
+-for the client.
+cd client.
+npm install.
+npm start.
 
 -for the server:
 cd server
