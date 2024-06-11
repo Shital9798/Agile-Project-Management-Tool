@@ -44,5 +44,5 @@ Create a `.env` file in the server directory and add the following environment v
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/Agile-Project-Management-Tool.git
+   git clone https://github.com/Shital9798/Agile-Project-Management-Tool.git
    cd Agile-Project-Management-Tool
