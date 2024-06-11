@@ -18,28 +18,29 @@ This is a web application built using the MERN stack (MongoDB, Express, React, N
   - Managers can see the updated status of tasks.
 
 ## Installation
--Follow these steps to set up the project locally:
- -for the client.
-  -cd client
-  -npm install.
-  -npm start.
 
- -for the server:
-  -cd server
-  -npm install
-  -npm start
+Follow these steps to set up the project locally:
 
-**##Environment Variables
-Create a .env file in the server directory and add the following environment variables:
+### For the client:
+- `cd client`
+- `npm install`
+- `npm start`
 
-PORT=5000
-DB=your_database_name
-SALT=your_salt_value
-JWTPRIVATEKEY=your_jwt_private_key
-JWT_SECRET=your_jwt_secret
-MONGO_URI=your_mongodb_connection_uri
+### For the server:
+- `cd server`
+- `npm install`
+- `npm start`
 
+## Environment Variables
 
+Create a `.env` file in the server directory and add the following environment variables:
+
+- `PORT=5000`
+- `DB=your_database_name`
+- `SALT=your_salt_value`
+- `JWTPRIVATEKEY=your_jwt_private_key`
+- `JWT_SECRET=your_jwt_secret`
+- `MONGO_URI=your_mongodb_connection_uri`
 
 1. **Clone the repository**
    ```sh
